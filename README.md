@@ -30,9 +30,9 @@ Installation
   
   Install the required dependencies:
       
-      pip install  cryptography==36.0.0
+      pip install  cryptography
       
-      pip install tkinter==8.6
+      pip install tkinter
 
 Usage
 
