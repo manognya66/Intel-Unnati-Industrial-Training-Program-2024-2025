@@ -93,6 +93,10 @@ Steps for Decrypting a File
 Steps for Brute-Force Recovery
     
     Select "Decrypt" operation.
+    
+    Enter length of the characters.
+
+    Click on Brute-force Recover to recover your passphrase.
 
 Contact
     
