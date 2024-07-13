@@ -105,5 +105,5 @@ Contact
     
     For any questions or suggestions, feel free to contact me manognya71003@gmail.com.
 
-For more clarification watch this video:
+For more clarification watch the uploaded video.
 
