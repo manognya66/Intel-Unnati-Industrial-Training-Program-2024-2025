@@ -97,7 +97,13 @@ Steps for Brute-Force Recovery
     Enter length of the characters.
 
     Click on Brute-force Recover to recover your passphrase.
+    
+    Note: No need to type in the Passphrase after Brute-force Recover. 
+          The input file is automatically Decrypted.
 
 Contact
     
     For any questions or suggestions, feel free to contact me manognya71003@gmail.com.
+
+For more clarification watch this video:
+
