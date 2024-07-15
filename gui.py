@@ -28,6 +28,9 @@ def execute_operation():
         elif operation_var.get() == "Decrypt":
             crypto_utils.decrypt_file(input_file, passphrase)
             messagebox.showinfo("Success", "File decrypted successfully!")
+            debug_text.config(state=tk.NORMAL)
+            debug_text.delete(1.0, tk.END)
+            debug_text.insert(tk.END, "File Decrypted Successfully.")
     except Exception as e:
         messagebox.showerror("Error", f"Operation failed: {str(e)}")
 
